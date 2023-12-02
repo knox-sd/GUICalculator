@@ -1,6 +1,6 @@
 """GUI Calculator
-    This program is GUI based. We are using tkinter library-
-    for making calculator interface and lambda function.
+    This program is GUI program in python.
+    Using tkinter library for making calculator interface and lambda function.
     lambda is anonymous function and can take any number of arguments,
     but can only have one expression.
 """
