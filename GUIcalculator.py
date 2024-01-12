@@ -1,4 +1,4 @@
-"""GUI Calculator
+"""KNOX GUI Calculator
     This program is GUI program in python using tkinter library for making calculator interface and lambda function.
     lambda is anonymous function and can take any number of arguments but can only have one expression.
 """
